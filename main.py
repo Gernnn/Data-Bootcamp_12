@@ -1,2 +1,2 @@
-## first scrript
+## print hello world
 print("Hello World")
